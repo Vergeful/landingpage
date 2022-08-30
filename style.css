@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    min-height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+.section1a{
+    display: flex;
+    padding: 10px 200px;
+    background-color: #1f2937;
+    justify-content: space-between;
+}
+
+.vergefulwebsite{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.links{
+    display:flex;
+    gap: 20px;
+    filter:contrast(0.7);
+}
+
+a{
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.section1b{
+    display:flex;
+    padding: 75px 200px;
+    background-color: #1f2937;
+    justify-content: space-between;
+    color: #F9FAF8;
+}
+
+.left1{
+    width: 400px;;
+}
+
+.awesomewebsite{
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.lowercontrast{
+    filter:contrast(0.7);
+}
+
+.button1{
+    margin-top: 12px;
+    background-color: #3882f6;
+    padding: 4px 30px;
+    color: #F9FAF8;
+    border-radius: 10px;
+    border: 0px;
+}
+
+
+.section1b img{
+    height: 250px;
+    width: 500px;
+}
+
